@@ -1,0 +1,13 @@
+Minesweeper, an implementation of the classic game
+Author: David Sawyer
+
+This game runs best on OS X.
+
+While in MineSweeper's directory...
+Minesweeper can be compiled by typing
+
+make compile
+
+and is run by typing
+
+make run
